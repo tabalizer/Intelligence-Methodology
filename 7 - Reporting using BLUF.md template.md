@@ -1,4 +1,4 @@
-# INTEL WRITING CHEAT SHEET (BLUF-Driven, Decision-Ready)
+# INTEL REPORTING WRITING CHEAT SHEET (BLUF-Driven, Decision-Ready)
 
 ## 0) BLUF — Lead With the Answer
 - **First sentence = main judgment + so-what + action** (one screen, ~2–3 lines). :contentReference[oaicite:0]{index=0}  
